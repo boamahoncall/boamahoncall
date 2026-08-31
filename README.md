@@ -16,7 +16,7 @@
 - ☁️ [Multi-Cloud IR Mirror](#) — the same response scenario built on Azure & AWS
 - 📋 [Service Continuity Runbook](#) — cloud-native downtime/recovery playbook with RTO/RPO targets
 
-🔗 <p align="center">
+<p align="center">
 <a href="https://www.linkedin.com/in/mfboamah/"> <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href="https://x.com/boamahoncall/"> <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fboamahoncall&style=for-the-badge&logo=X&labelColor=black&color=black">
 </a>
