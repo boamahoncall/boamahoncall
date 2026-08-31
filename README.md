@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=115&duration=1600&pause=300&color=00B801&center=true&vCenter=true&multiline=true&repeat=false&width=1920&height=384&lines=Hi!+I'm+Moses+Boamah;Welcome+to+My+README+%F0%9F%91%8B" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&size=115&duration=1600&pause=300&color=00B801&center=true&vCenter=true&multiline=true&repeat=false&width=1920&height=384&lines=Hi!+I'm+Moses+Boamah;Welcome+to+My+ReadMe+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 **Incident Commander**: Building multi-cloud engineering depth on top of enterprise incident management experience — bridging ITSM process maturity with hands-on cloud infrastructure and detection engineering.
