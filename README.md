@@ -22,4 +22,14 @@
 </a>
 </p>
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+</p>
+
+<p align="center">
 <sub>All projects use public cloud services and generalized scenarios — no proprietary or employer-specific info.</sub>
+</p>
